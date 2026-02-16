@@ -1,0 +1,11 @@
+.venv/
+.vscode/
+__pyscache__/
+*.pyc
+*.xlsx
+*.scv
+*.log
+*.json
+*.db
+*zip
+*.code-workspace
