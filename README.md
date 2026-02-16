@@ -23,6 +23,8 @@ A beginner-friendly calculator with interactive command-line interface. Supports
 | Help | `help` |
 | Exit | `exit` |
 
+![Calculator Screenshot](screenshot.png)
+
 ## 👤 Author
 
 Oluwafemi Bamidele
